@@ -2,7 +2,7 @@ CS 262 - Lab 01
 ------------------
 This lab is based on [link  to lab source](https://cs.calvin.edu/courses/cs/262/kvlinden/01introduction/lab.html)
 
-Answer to the lab questions:
+Answers to the lab questions:
 
 app.js --> Is wher eyou can create your mobile app, like editing the text on the scrren to say "Hello Expo!"
 
