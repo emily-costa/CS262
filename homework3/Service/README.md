@@ -19,11 +19,3 @@ For the team project, configure your Heroku app to auto-deploy the code from the
 master/main branch of your
 service repo; do this by following the instructions under the &ldquo;Deploy&rdquo;
 tab in your application in the Heroku dashboard.
-
-Service URL Links:
-* https://gentle-lowlands-28780.herokuapp.com/
-* https://gentle-lowlands-28780.herokuapp.com/players
-* https://gentle-lowlands-28780.herokuapp.com/players/1
-* https://gentle-lowlands-28780.herokuapp.com/players/-1 (not found)
-* https://gentle-lowlands-28780.herokuapp.com/players/blob (undefined endpoint)
-* https://gentle-lowlands-28780.herokuapp.com/playersGame (multiple table)

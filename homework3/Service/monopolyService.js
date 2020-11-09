@@ -111,7 +111,7 @@ function deletePlayer(req, res, next) {
 }
 
 function readPlayersGame(req, res, next) {
-    db.many("SELECT score FROM Player, PlayerGame WHERE Player.ID = PlayerGame.playerID AND Player.name = 'Dogbreath';")
+    db.many("SELECT score FROM Player, PlayerGame WHERE Player.ID = PlayerGame.playerID AND Player.name = 'Dogbreath'")
         .then(data => {
             res.send(data);
         })
@@ -119,4 +119,3 @@ function readPlayersGame(req, res, next) {
             next(err);
         })
 }
-
