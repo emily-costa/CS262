@@ -1,0 +1,11 @@
+#CS 262 -- Lab11
+##11/14/2020
+
+I used VS Code, ESLint extension to edit the pickUp.js file in our client repo.
+
+Changes:
+-Changed double to single quotes
+-Removed TouchableOpacity import package because we currently aren't using it
+-Remvoies last comma in the import {} because I don't need it unless I list another item after
+-Left trialing semicolons becuase personal preferance
+-Removed the navigation variable as the paramter in pickUp() because it is never used
